@@ -1,0 +1,2 @@
+PyQt6==6.5.0
+pyinstaller==5.7.0  # Only if you want to build the executable bro. If you don't Nrentzilas already got you :P Head over to releases and download the latest one.
